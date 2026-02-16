@@ -61,7 +61,7 @@ void *client_thread_func(void *arg) {
     struct epoll_event event, events[MAX_EVENTS];
     char send_buf[MESSAGE_SIZE] = "ABCDEFGHIJKMLNOP"; /* Send 16-Bytes message every time */
     char recv_buf[MESSAGE_SIZE];
-    struct timeval start, end;
+    struct timeval start, end, thread_start, thread_end;
 
     // Hint 1: register the "connected" client_thread's socket in the its epoll instance
     // Hint 2: use gettimeofday() and "struct timeval start, end" to record timestamp, which can be used to calculated RTT.
