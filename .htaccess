@@ -1,0 +1,8 @@
+Options +ExecCGI
+AddHandler cgi-script .py
+AcceptPathInfo On
+
+<Limit GET POST PUT DELETE OPTIONS>
+    Require all granted
+</Limit>
+

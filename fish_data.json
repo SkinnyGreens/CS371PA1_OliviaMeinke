@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Betta",
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    {
+        "name": "Goldfish",
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    {
+        "name": "Clownfish",
+        "waterType": "Saltwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    {
+        "name": "",
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small"
+    },
+    {
+        "name": "Mom",
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Medium"
+    },
+    {
+        "name": "dog",
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Medium"
+    },
+    {
+        "name": "hippo",
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    {
+        "name": "Tester",
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Medium"
+    },
+    {
+        "name": "dragon",
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small"
+    },
+    {
+        "name": "blob",
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Medium"
+    },
+    {
+        "name": "blog",
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Medium"
+    },
+    {
+        "name": "rowan",
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small"
+    },
+    {
+        "name": "row",
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Medium"
+    }
+]

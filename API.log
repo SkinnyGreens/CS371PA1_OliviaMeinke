@@ -1,0 +1,5498 @@
+[2025-12-10 22:21:39] GET index.php - 200
+[2025-12-10 22:21:46] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 22:33:26] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 22:33:26] PUT updateFish - {"status":"Error reading fish data","error":{"type":2,"message":"scandir(): (errno 2): No such file or directory","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":138}}
+[2025-12-10 22:47:22] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 22:47:22] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:47:32] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 4,
+  'size' => 'medium',
+)
+[2025-12-10 22:47:32] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:47:35] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 4,
+  'size' => 'medium',
+)
+[2025-12-10 22:47:35] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:47:44] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Gyarados',
+  'waterType' => 'fresh',
+  'aggression' => 5,
+  'size' => 'small',
+)
+[2025-12-10 22:47:44] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Gyarados exists"}}
+[2025-12-10 22:47:54] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Gyarados',
+  'waterType' => 'fresh',
+  'aggression' => 5,
+  'size' => 'small',
+)
+[2025-12-10 22:47:54] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Gyarados exists"}}
+[2025-12-10 22:47:56] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Gyarados',
+  'waterType' => 'fresh',
+  'aggression' => 5,
+  'size' => 'small',
+)
+[2025-12-10 22:47:56] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Gyarados exists"}}
+[2025-12-10 22:48:05] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'medium',
+)
+[2025-12-10 22:48:05] PUT updateFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:48:12] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:12] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+)
+[2025-12-10 22:48:12] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:48:13] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:13] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Fishie',
+)
+[2025-12-10 22:48:13] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Fishie exists"}}
+[2025-12-10 22:48:14] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:14] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Gyarados',
+)
+[2025-12-10 22:48:14] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Gyarados exists"}}
+[2025-12-10 22:48:18] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:18] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Jackson',
+)
+[2025-12-10 22:48:18] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Jackson exists"}}
+[2025-12-10 22:48:20] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:20] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Majikarp',
+)
+[2025-12-10 22:48:20] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Majikarp exists"}}
+[2025-12-10 22:48:21] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:21] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'MikeJones',
+)
+[2025-12-10 22:48:21] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named MikeJones exists"}}
+[2025-12-10 22:48:22] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:22] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Mono',
+)
+[2025-12-10 22:48:22] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Mono exists"}}
+[2025-12-10 22:48:23] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:23] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Nemo',
+)
+[2025-12-10 22:48:23] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Nemo exists"}}
+[2025-12-10 22:48:25] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:25] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Nova',
+)
+[2025-12-10 22:48:25] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Nova exists"}}
+[2025-12-10 22:48:25] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:25] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ThaBiggestFish',
+)
+[2025-12-10 22:48:25] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named ThaBiggestFish exists"}}
+[2025-12-10 22:48:26] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:26] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Newfish',
+)
+[2025-12-10 22:48:26] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named Newfish exists"}}
+[2025-12-10 22:48:28] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:28] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'h',
+)
+[2025-12-10 22:48:28] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named h exists"}}
+[2025-12-10 22:48:29] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:29] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'pino',
+)
+[2025-12-10 22:48:29] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named pino exists"}}
+[2025-12-10 22:48:30] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:30] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'whale',
+)
+[2025-12-10 22:48:30] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named whale exists"}}
+[2025-12-10 22:48:31] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:31] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fishfish',
+)
+[2025-12-10 22:48:31] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named fishfish exists"}}
+[2025-12-10 22:48:32] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:48:32] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dragon',
+)
+[2025-12-10 22:48:32] DELETE deleteFish - {"status":"Fish not found","error":{"message":"No fish named dragon exists"}}
+[2025-12-10 22:49:46] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bob',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 22:49:46] addFish mkdir rc=true
+[2025-12-10 22:49:46] POST addFish - {"status":"New fish bob created","roomID":"bob"}
+[2025-12-10 22:49:46] GET getFish - {
+    "bob": {
+        "name": "bob",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765406986,
+        "deleted": false
+    }
+}
+[2025-12-10 22:50:46] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dog',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 22:50:46] addFish mkdir rc=true
+[2025-12-10 22:50:46] POST addFish - {"status":"New fish dog created","roomID":"dog"}
+[2025-12-10 22:50:46] GET getFish - {
+    "bob": {
+        "name": "bob",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765406986,
+        "deleted": false
+    },
+    "dog": {
+        "name": "dog",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407046,
+        "deleted": false
+    }
+}
+[2025-12-10 22:51:19] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Pow',
+  'waterType' => 'salt',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:51:19] addFish mkdir rc=true
+[2025-12-10 22:51:19] POST addFish - {"status":"New fish Pow created","roomID":"Pow"}
+[2025-12-10 22:54:48] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'BOB',
+  'waterType' => 'salt',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:56:06] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dude',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:58:26] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dude',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:58:26] addFish mkdir rc=true
+[2025-12-10 22:58:26] POST addFish - {"status":"New fish dude created","roomID":"dude"}
+[2025-12-10 22:58:26] GET getFish - {
+    "Pow": {
+        "name": "Pow",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407079,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "bob": {
+        "name": "bob",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765406986,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "dog": {
+        "name": "dog",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407046,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "dude": {
+        "name": "dude",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407506,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false
+    }
+}
+[2025-12-10 22:58:37] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:58:37] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Pow',
+)
+[2025-12-10 22:58:37] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Pow',
+)
+[2025-12-10 22:58:37] DELETE deleteFish - {"status":"Fish Pow deleted"}
+[2025-12-10 22:58:37] GET getFish - {
+    "bob": {
+        "name": "bob",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765406986,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "dog": {
+        "name": "dog",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407046,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "dude": {
+        "name": "dude",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407506,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false
+    }
+}
+[2025-12-10 22:58:39] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:58:39] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bob',
+)
+[2025-12-10 22:58:39] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bob',
+)
+[2025-12-10 22:58:39] DELETE deleteFish - {"status":"Fish bob deleted"}
+[2025-12-10 22:58:39] GET getFish - {
+    "dog": {
+        "name": "dog",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407046,
+        "deleted": false,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small"
+    },
+    "dude": {
+        "name": "dude",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407506,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false
+    }
+}
+[2025-12-10 22:58:40] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:58:40] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dog',
+)
+[2025-12-10 22:58:40] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dog',
+)
+[2025-12-10 22:58:40] DELETE deleteFish - {"status":"Fish dog deleted"}
+[2025-12-10 22:58:41] GET getFish - {
+    "dude": {
+        "name": "dude",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407506,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false
+    }
+}
+[2025-12-10 22:58:41] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 22:58:41] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dude',
+)
+[2025-12-10 22:58:41] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dude',
+)
+[2025-12-10 22:58:41] DELETE deleteFish - {"status":"Fish dude deleted"}
+[2025-12-10 22:58:41] GET getFish - []
+[2025-12-10 22:58:48] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 22:58:48] addFish mkdir rc=true
+[2025-12-10 22:58:48] POST addFish - {"status":"New fish Rowan created","roomID":"Rowan"}
+[2025-12-10 22:58:48] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 22:58:57] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'fresh',
+  'aggression' => 3,
+  'size' => 'large',
+)
+[2025-12-10 22:58:57] addFish mkdir rc=true
+[2025-12-10 22:58:57] POST addFish - {"status":"New fish Basset created","roomID":"Basset"}
+[2025-12-10 22:58:57] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Large",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 22:59:04] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Bella',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'small',
+)
+[2025-12-10 22:59:04] addFish mkdir rc=true
+[2025-12-10 22:59:04] POST addFish - {"status":"New fish Bella created","roomID":"Bella"}
+[2025-12-10 22:59:04] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Large",
+        "deleted": false
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 22:59:16] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'Large',
+)
+[2025-12-10 22:59:16] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'Large',
+)
+[2025-12-10 22:59:16] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"Freshwater","aggression":2,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 22:59:16] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 22:59:54] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:59:54] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'large',
+)
+[2025-12-10 22:59:54] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"Freshwater","aggression":2,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 22:59:54] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:00:07] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:00:07] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:00:07] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"Freshwater","aggression":2,"size":"small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:00:07] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:00:11] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:00:11] addFish mkdir rc=false
+[2025-12-10 23:00:11] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":272},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:00:42] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:42] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:42] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"brackish","aggression":2,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:00:42] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:00:47] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'fresh',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:47] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'fresh',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:47] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"fresh","aggression":2,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:00:47] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:00:51] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:51] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Freshwater',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:51] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"Freshwater","aggression":2,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:00:51] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:00:58] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:58] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:00:58] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"brackish","aggression":2,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:00:58] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:04:25] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:04:25] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+  'waterType' => 'Brackish',
+  'aggression' => 2,
+  'size' => 'Small',
+)
+[2025-12-10 23:04:25] PUT updateFish - {"status":"Fish Basset updated","info":{"name":"Basset","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407537,"waterType":"Brackish","aggression":2,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:04:25] GET getFish - {
+    "Basset": {
+        "name": "Basset",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407537,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:04:39] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:04:39] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+)
+[2025-12-10 23:04:39] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Basset',
+)
+[2025-12-10 23:04:39] DELETE deleteFish - {"status":"Fish Basset deleted"}
+[2025-12-10 23:04:39] GET getFish - {
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:04:46] GET getFish - {
+    "Bella": {
+        "name": "Bella",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407544,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false
+    },
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:04:54] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:04:54] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Bella',
+)
+[2025-12-10 23:04:54] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Bella',
+)
+[2025-12-10 23:04:54] DELETE deleteFish - {"status":"Fish Bella deleted"}
+[2025-12-10 23:04:54] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:04:58] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'Small',
+)
+[2025-12-10 23:04:58] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'Small',
+)
+[2025-12-10 23:04:58] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"brackish","aggression":1,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:04:58] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:05:11] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:05:11] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:05:11] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"brackish","aggression":4,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:05:11] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:07:38] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:07:48] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'large',
+)
+[2025-12-10 23:07:48] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'large',
+)
+[2025-12-10 23:07:48] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"salt","aggression":1,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:07:48] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:13] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Freshwater',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:08:13] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Freshwater',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:08:13] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Freshwater","aggression":4,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:13] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:18] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:08:18] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:08:18] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"brackish","aggression":4,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:18] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:29] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:29] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:29] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:29] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:39] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:39] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:39] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:39] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:44] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:08:44] addFish mkdir rc=false
+[2025-12-10 23:08:44] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":272},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:08:52] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:08:52] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:08:52] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:52] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:08:57] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:57] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:08:57] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:08:57] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:05] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:09:05] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:09:05] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:05] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:10] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'small',
+)
+[2025-12-10 23:09:10] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'small',
+)
+[2025-12-10 23:09:11] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:11] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:12] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:09:12] addFish mkdir rc=false
+[2025-12-10 23:09:12] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":272},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:09:34] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'medium',
+)
+[2025-12-10 23:09:34] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'medium',
+)
+[2025-12-10 23:09:34] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"medium","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:34] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:36] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:09:36] addFish mkdir rc=false
+[2025-12-10 23:09:36] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":272},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:09:41] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:09:41] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'large',
+)
+[2025-12-10 23:09:41] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:41] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:50] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 1,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:50] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 1,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:50] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":1,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:50] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:53] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 2,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:53] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 2,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:53] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":2,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:54] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 2,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:09:57] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 3,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:57] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 3,
+  'size' => 'Large',
+)
+[2025-12-10 23:09:57] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":3,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:09:57] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 3,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:01] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:01] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 4,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:01] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":4,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:01] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 4,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:06] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:06] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'Brackish',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:06] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"Brackish","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:06] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:20] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'fresh',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:20] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'fresh',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:20] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"fresh","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:21] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:28] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:28] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:28] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"salt","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:28] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:34] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:34] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:34] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"salt","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:34] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:45] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:45] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:45] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"brackish","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:46] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:52] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:52] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'Large',
+)
+[2025-12-10 23:10:52] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"salt","aggression":5,"size":"Large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:10:52] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:10:59] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:10:59] addFish mkdir rc=true
+[2025-12-10 23:10:59] POST addFish - {"status":"New fish bruh created","roomID":"bruh"}
+[2025-12-10 23:10:59] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:12:54] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:12:54] addFish mkdir rc=false
+[2025-12-10 23:12:54] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":272},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:12:58] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'turd',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:12:58] addFish mkdir rc=true
+[2025-12-10 23:12:58] POST addFish - {"status":"New fish turd created","roomID":"turd"}
+[2025-12-10 23:12:58] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:13:06] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:13:06] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:13:06] PUT updateFish - {"status":"Fish bruh updated","info":{"name":"bruh","createdBy":"onme224","apiKey":"6f0c","createdAt":1765408259,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:13:06] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:15:20] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:15:20] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'brackish',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:15:20] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"brackish","aggression":5,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:15:20] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Brackish",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:18:33] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:18:33] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:18:33] PUT updateFish - {"status":"Fish Rowan updated","info":{"name":"Rowan","createdBy":"onme224","apiKey":"6f0c","createdAt":1765407528,"waterType":"salt","aggression":5,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:18:33] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:18:44] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'medium',
+)
+[2025-12-10 23:18:44] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'medium',
+)
+[2025-12-10 23:18:44] PUT updateFish - {"status":"Fish bruh updated","info":{"name":"bruh","createdBy":"onme224","apiKey":"6f0c","createdAt":1765408259,"waterType":"brackish","aggression":1,"size":"medium","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:18:44] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    }
+}
+[2025-12-10 23:18:53] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'turd',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'large',
+)
+[2025-12-10 23:18:53] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'turd',
+  'waterType' => 'brackish',
+  'aggression' => 1,
+  'size' => 'large',
+)
+[2025-12-10 23:18:53] PUT updateFish - {"status":"Fish turd updated","info":{"name":"turd","createdBy":"onme224","apiKey":"6f0c","createdAt":1765408378,"waterType":"brackish","aggression":1,"size":"large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:18:53] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:19:04] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'r',
+  'waterType' => 'salt',
+  'aggression' => 3,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:19:04] addFish mkdir rc=true
+[2025-12-10 23:19:04] POST addFish - {"status":"New fish r created","roomID":"r"}
+[2025-12-10 23:19:04] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:19:15] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '4',
+  'waterType' => 'fresh',
+  'aggression' => 4,
+  'size' => 'small',
+)
+[2025-12-10 23:19:15] POST addFish - {"status":"Fish name already exists","error":{"message":"A fish named 4 already exists"}}
+[2025-12-10 23:19:23] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'g',
+  'waterType' => 'fresh',
+  'aggression' => 4,
+  'size' => 'small',
+)
+[2025-12-10 23:19:23] addFish mkdir rc=true
+[2025-12-10 23:19:23] POST addFish - {"status":"New fish g created","roomID":"g"}
+[2025-12-10 23:19:24] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "g": {
+        "name": "g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408763,
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:19:34] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'h',
+  'waterType' => 'fresh',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-10 23:19:34] addFish mkdir rc=true
+[2025-12-10 23:19:34] POST addFish - {"status":"New fish h created","roomID":"h"}
+[2025-12-10 23:19:34] GET getFish - {
+    "Rowan": {
+        "name": "Rowan",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765407528,
+        "waterType": "Freshwater",
+        "aggression": 5,
+        "size": "Small",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "g": {
+        "name": "g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408763,
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:20:21] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:20:21] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+)
+[2025-12-10 23:20:21] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'Rowan',
+)
+[2025-12-10 23:20:21] DELETE deleteFish - {"status":"Fish Rowan deleted"}
+[2025-12-10 23:20:21] GET getFish - {
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "g": {
+        "name": "g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408763,
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:23:04] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'g',
+  'waterType' => 'salt',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:23:04] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'g',
+  'waterType' => 'salt',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:23:04] PUT updateFish - {"status":"Fish g updated","info":{"name":"g","createdBy":"onme224","apiKey":"6f0c","createdAt":1765408984,"waterType":"Freshwater","aggression":4,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:23:04] GET getFish - {
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "g": {
+        "name": "g",
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:23:13] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gf',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:23:13] addFish mkdir rc=true
+[2025-12-10 23:23:13] POST addFish - {"status":"New fish gf created","roomID":"gf"}
+[2025-12-10 23:23:13] GET getFish - {
+    "bruh": {
+        "name": "bruh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408259,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Medium",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "g": {
+        "name": "g",
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:27:53] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:27:53] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:27:53] PUT updateFish - {"status":"Fish bruh updated","info":{"name":"bruh","createdBy":"onme224","apiKey":"6f0c","createdAt":1765409273,"waterType":"Freshwater","aggression":1,"size":"Small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:27:53] GET getFish - {
+    "bruh": {
+        "name": "bruh",
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small"
+    },
+    "g": {
+        "name": "g",
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:37:54] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:37:54] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+)
+[2025-12-10 23:37:54] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bruh',
+)
+[2025-12-10 23:37:54] DELETE deleteFish - {"status":"Fish bruh deleted"}
+[2025-12-10 23:37:54] GET getFish - {
+    "g": {
+        "name": "g",
+        "waterType": "Freshwater",
+        "aggression": 4,
+        "size": "Small"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:37:55] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:37:55] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'g',
+)
+[2025-12-10 23:37:55] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'g',
+)
+[2025-12-10 23:37:55] DELETE deleteFish - {"status":"Fish g deleted"}
+[2025-12-10 23:37:55] GET getFish - {
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:38:08] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:38:08] addFish mkdir rc=true
+[2025-12-10 23:38:08] POST addFish - {"status":"New fish ffngnhdgst created","roomID":"ffngnhdgst"}
+[2025-12-10 23:38:08] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409888,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:38:18] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:38:18] addFish mkdir rc=true
+[2025-12-10 23:38:18] POST addFish - {"status":"New fish gdjgs created","roomID":"gdjgs"}
+[2025-12-10 23:38:18] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409888,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409898,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "Freshwater",
+        "aggression": 1,
+        "size": "Small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "Freshwater",
+        "aggression": 2,
+        "size": "Small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "Freshwater",
+        "aggression": 3,
+        "size": "Small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "Brackish",
+        "aggression": 1,
+        "size": "Large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:41:29] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => '',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:41:29] addFish mkdir rc=false
+[2025-12-10 23:41:29] POST addFish - {"status":"Error adding Fish directory","error":{"type":2,"message":"mkdir(): File exists","file":"\/homes\/onme224\/HTML\/CS316\/A4\/index.php","line":286},"path":"\/homes\/onme224\/HTML\/CS316\/A4\/\/Tank\/"}
+[2025-12-10 23:41:41] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'th5rjh',
+  'waterType' => 'fresh',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:41:41] addFish mkdir rc=true
+[2025-12-10 23:41:41] POST addFish - {"status":"New fish th5rjh created","roomID":"th5rjh"}
+[2025-12-10 23:41:41] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409888,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409898,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:41:48] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:41:48] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:41:48] PUT updateFish - {"status":"Fish ffngnhdgst updated","info":{"name":"ffngnhdgst","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410108,"waterType":"salt","aggression":1,"size":"small","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:41:48] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "small"
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409898,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:41:57] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:41:57] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:41:57] PUT updateFish - {"status":"Fish ffngnhdgst updated","info":{"name":"ffngnhdgst","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410117,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:41:57] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765409898,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:42:11] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:11] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:11] PUT updateFish - {"status":"Fish gdjgs updated","info":{"name":"gdjgs","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410131,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:42:11] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:42:20] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:20] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:20] PUT updateFish - {"status":"Fish gdjgs updated","info":{"name":"gdjgs","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410140,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:42:20] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    }
+}
+[2025-12-10 23:42:27] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'wt3g',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:27] addFish mkdir rc=true
+[2025-12-10 23:42:27] POST addFish - {"status":"New fish wt3g created","roomID":"wt3g"}
+[2025-12-10 23:42:27] GET getFish - {
+    "ffngnhdgst": {
+        "name": "ffngnhdgst",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gdjgs": {
+        "name": "gdjgs",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:42:31] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:42:31] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+)
+[2025-12-10 23:42:31] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'ffngnhdgst',
+)
+[2025-12-10 23:42:31] DELETE deleteFish - {"status":"Fish ffngnhdgst deleted"}
+[2025-12-10 23:42:31] GET getFish - {
+    "gdjgs": {
+        "name": "gdjgs",
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:42:32] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:42:32] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+)
+[2025-12-10 23:42:32] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gdjgs',
+)
+[2025-12-10 23:42:32] DELETE deleteFish - {"status":"Fish gdjgs deleted"}
+[2025-12-10 23:42:32] GET getFish - {
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:42:41] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bf',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:42:41] addFish mkdir rc=true
+[2025-12-10 23:42:41] POST addFish - {"status":"New fish bf created","roomID":"bf"}
+[2025-12-10 23:42:41] GET getFish - {
+    "bf": {
+        "name": "bf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410161,
+        "waterType": "salt",
+        "aggression": 5,
+        "size": "extra-large",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:42:54] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bf',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'medium',
+)
+[2025-12-10 23:42:54] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bf',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'medium',
+)
+[2025-12-10 23:42:54] PUT updateFish - {"status":"Fish bf updated","info":{"name":"bf","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410174,"waterType":"brackish","aggression":2,"size":"medium","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:42:54] GET getFish - {
+    "bf": {
+        "name": "bf",
+        "waterType": "brackish",
+        "aggression": 2,
+        "size": "medium"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:46:35] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-10 23:46:35] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bf',
+)
+[2025-12-10 23:46:35] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bf',
+)
+[2025-12-10 23:46:35] DELETE deleteFish - {"status":"Fish bf deleted"}
+[2025-12-10 23:46:35] GET getFish - {
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:46:44] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gf',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:46:44] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gf',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:46:44] PUT updateFish - {"status":"Fish gf updated","info":{"name":"gf","createdBy":"onme224","apiKey":"6f0c","createdAt":1765408993,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:46:44] GET getFish - {
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:46:53] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'small',
+)
+[2025-12-10 23:46:53] addFish mkdir rc=true
+[2025-12-10 23:46:53] POST addFish - {"status":"New fish fgh created","roomID":"fgh"}
+[2025-12-10 23:46:53] GET getFish - {
+    "fgh": {
+        "name": "fgh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410413,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:46:59] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:46:59] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+  'waterType' => 'salt',
+  'aggression' => 1,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:46:59] PUT updateFish - {"status":"Fish fgh updated","info":{"name":"fgh","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410413,"waterType":"salt","aggression":1,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:46:59] GET getFish - {
+    "fgh": {
+        "name": "fgh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410413,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-10 23:47:08] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:47:08] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+  'waterType' => 'salt',
+  'aggression' => 5,
+  'size' => 'extra-large',
+)
+[2025-12-10 23:47:08] PUT updateFish - {"status":"Fish fgh updated","info":{"name":"fgh","createdBy":"onme224","apiKey":"6f0c","createdAt":1765410413,"waterType":"salt","aggression":5,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-10 23:47:08] GET getFish - {
+    "fgh": {
+        "name": "fgh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410413,
+        "waterType": "salt",
+        "aggression": 5,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 00:59:42] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dew',
+  'waterType' => 'salt',
+  'aggression' => 2,
+  'size' => 'extra-large',
+)
+[2025-12-11 00:59:42] addFish mkdir rc=true
+[2025-12-11 00:59:42] POST addFish - {"status":"New fish dew created","roomID":"dew"}
+[2025-12-11 00:59:42] GET getFish - {
+    "dew": {
+        "name": "dew",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765414782,
+        "waterType": "salt",
+        "aggression": 2,
+        "size": "extra-large",
+        "deleted": false
+    },
+    "fgh": {
+        "name": "fgh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410413,
+        "waterType": "salt",
+        "aggression": 5,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 00:59:45] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-11 00:59:45] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dew',
+)
+[2025-12-11 00:59:45] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'dew',
+)
+[2025-12-11 00:59:45] DELETE deleteFish - {"status":"Fish dew deleted"}
+[2025-12-11 00:59:45] GET getFish - {
+    "fgh": {
+        "name": "fgh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410413,
+        "waterType": "salt",
+        "aggression": 5,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 00:59:46] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-11 00:59:46] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+)
+[2025-12-11 00:59:46] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'fgh',
+)
+[2025-12-11 00:59:46] DELETE deleteFish - {"status":"Fish fgh deleted"}
+[2025-12-11 00:59:46] GET getFish - {
+    "gf": {
+        "name": "gf",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408993,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 00:59:47] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-11 00:59:47] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gf',
+)
+[2025-12-11 00:59:47] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'gf',
+)
+[2025-12-11 00:59:47] DELETE deleteFish - {"status":"Fish gf deleted"}
+[2025-12-11 00:59:47] GET getFish - {
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 01:24:11] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloop',
+  'waterType' => 'brackish',
+  'aggression' => 2,
+  'size' => 'small',
+)
+[2025-12-11 01:24:11] addFish mkdir rc=true
+[2025-12-11 01:24:11] POST addFish - {"status":"New fish bloop created","roomID":"bloop"}
+[2025-12-11 01:24:11] GET getFish - {
+    "bloop": {
+        "name": "bloop",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416251,
+        "waterType": "brackish",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 01:24:20] addFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloodfish',
+  'waterType' => 'salt',
+  'aggression' => 4,
+  'size' => 'medium',
+)
+[2025-12-11 01:24:20] addFish mkdir rc=true
+[2025-12-11 01:24:20] POST addFish - {"status":"New fish bloodfish created","roomID":"bloodfish"}
+[2025-12-11 01:24:20] GET getFish - {
+    "bloodfish": {
+        "name": "bloodfish",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416260,
+        "waterType": "salt",
+        "aggression": 4,
+        "size": "medium",
+        "deleted": false
+    },
+    "bloop": {
+        "name": "bloop",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416251,
+        "waterType": "brackish",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 01:24:30] updateFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloodfish',
+  'waterType' => 'salt',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-11 01:24:30] updateFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloodfish',
+  'waterType' => 'salt',
+  'aggression' => 4,
+  'size' => 'extra-large',
+)
+[2025-12-11 01:24:30] PUT updateFish - {"status":"Fish bloodfish updated","info":{"name":"bloodfish","createdBy":"onme224","apiKey":"6f0c","createdAt":1765416260,"waterType":"salt","aggression":4,"size":"extra-large","deleted":false,"browserID":"rOCIFjFCza1e5sDM","thumbmark":"770b0bee2e9b37cd808d5ceb324ccea5","userName":"onme224"}}
+[2025-12-11 01:24:30] GET getFish - {
+    "bloodfish": {
+        "name": "bloodfish",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416260,
+        "waterType": "salt",
+        "aggression": 4,
+        "size": "extra-large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "bloop": {
+        "name": "bloop",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416251,
+        "waterType": "brackish",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 01:24:31] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-11 01:24:31] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloodfish',
+)
+[2025-12-11 01:24:31] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloodfish',
+)
+[2025-12-11 01:24:31] DELETE deleteFish - {"status":"Fish bloodfish deleted"}
+[2025-12-11 01:24:31] GET getFish - {
+    "bloop": {
+        "name": "bloop",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765416251,
+        "waterType": "brackish",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
+[2025-12-11 01:24:32] deleteFish called with rc=array (
+  0 => 'A4',
+  1 => 'index.php',
+  2 => 'deleteFish',
+)
+[2025-12-11 01:24:32] deleteFish called with array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloop',
+)
+[2025-12-11 01:24:32] deleteFish succeeded for array (
+  'browserID' => 'rOCIFjFCza1e5sDM',
+  'thumbmark' => '770b0bee2e9b37cd808d5ceb324ccea5',
+  'apiKey' => '6f0c',
+  'userName' => 'onme224',
+  'name' => 'bloop',
+)
+[2025-12-11 01:24:32] DELETE deleteFish - {"status":"Fish bloop deleted"}
+[2025-12-11 01:24:32] GET getFish - {
+    "h": {
+        "name": "h",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408774,
+        "waterType": "fresh",
+        "aggression": 2,
+        "size": "small",
+        "deleted": false
+    },
+    "r": {
+        "name": "r",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408744,
+        "waterType": "fresh",
+        "aggression": 3,
+        "size": "small",
+        "deleted": false
+    },
+    "th5rjh": {
+        "name": "th5rjh",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410101,
+        "waterType": "fresh",
+        "aggression": 1,
+        "size": "small",
+        "deleted": false
+    },
+    "turd": {
+        "name": "turd",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765408378,
+        "waterType": "brackish",
+        "aggression": 1,
+        "size": "large",
+        "deleted": false,
+        "userName": "onme224",
+        "browserID": "rOCIFjFCza1e5sDM",
+        "thumbmark": "770b0bee2e9b37cd808d5ceb324ccea5"
+    },
+    "wt3g": {
+        "name": "wt3g",
+        "createdBy": "onme224",
+        "apiKey": "6f0c",
+        "createdAt": 1765410147,
+        "waterType": "salt",
+        "aggression": 1,
+        "size": "extra-large",
+        "deleted": false
+    }
+}
