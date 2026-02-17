@@ -89,14 +89,14 @@ void *client_thread_func(void *arg) {
             break;
         }
 
-        // Receive the echoed message back
+        // Receive the echoed message back from server
         ssize_t count = recv(data->socket_fd, recv_buf, MESSAGE_SIZE, 0);
         if (count <= 0) {
             if (count < 0) perror("recv");
             break;
         }
 
-        // Record end time after receiving
+        // Record end time after receiving message from server
         gettimeofday(&end, NULL);
         
         // Calculate RTT in microseconds
@@ -114,12 +114,12 @@ void *client_thread_func(void *arg) {
     gettimeofday(&thread_end, NULL);
     long long total_time_us = (thread_end.tv_sec - thread_start.tv_sec) * 1000000LL + (thread_end.tv_usec - thread_start.tv_usec);
     
-    // Calculate requests per second
+    // Calculate requests per microseconds 
     if (total_time_us > 0) {
         data->request_rate = (float)data->total_messages / (total_time_us / 1000000.0f);
     }
 
-    // Cleanup resources
+    // Close socket and epoll
     close(data->socket_fd);
     close(data->epoll_fd);
 
@@ -144,7 +144,7 @@ void run_client() {
     server_addr.sin_addr.s_addr = inet_addr(server_ip);
     server_addr.sin_port = htons(server_port);
 
-    // Setup each thread's connection before starting threads
+    // Setup each thread's connection
     for (int i = 0; i < num_client_threads; i++) {
         // Create TCP socket
         int sock = socket(AF_INET, SOCK_STREAM, 0);
@@ -159,14 +159,14 @@ void run_client() {
             exit(EXIT_FAILURE);
         }
 
-        // Create epoll instance for this thread
+        // Create epoll instance for tread
         int epoll_fd = epoll_create1(0);
         if (epoll_fd == -1) {
             perror("epoll_create1");
             exit(EXIT_FAILURE);
         }
 
-        // Register socket with epoll
+        // Socket with epoll
         struct epoll_event ev;
         ev.events = EPOLLIN;
         ev.data.fd = sock;
@@ -175,7 +175,7 @@ void run_client() {
             exit(EXIT_FAILURE);
         }
 
-        // Store descriptors in thread data
+        // Store data in thread data
         thread_data[i].socket_fd = sock;
         thread_data[i].epoll_fd = epoll_fd;
         thread_data[i].total_rtt = 0;
@@ -184,7 +184,7 @@ void run_client() {
     }
     
     // Hint: use thread_data to save the created socket and epoll instance for each thread
-    // You will pass the thread_data to pthread_create() as below
+    // Pass the thread_data to pthread_create() 
     for (int i = 0; i < num_client_threads; i++) {
         pthread_create(&threads[i], NULL, client_thread_func, &thread_data[i]);
     }
@@ -196,7 +196,7 @@ void run_client() {
     long total_messages = 0;
     float total_request_rate = 0.0f;
 
-    // Join threads and sum up statistics
+    // Sum up threads 
     for (int i = 0; i < num_client_threads; i++) {
         pthread_join(threads[i], NULL);
         total_rtt += thread_data[i].total_rtt;
@@ -220,18 +220,18 @@ void run_server() {
      * Server creates listening socket and epoll instance.
      * Server registers the listening socket to epoll
      */
-    // Create listening socket
+    // Create socket
     listen_sock = socket(AF_INET, SOCK_STREAM, 0);
     if (listen_sock == -1) {
         perror("socket");
         exit(EXIT_FAILURE);
     }
 
-    // Allow socket address reuse
+    // Soxket address 
     int opt = 1;
     setsockopt(listen_sock, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(opt));
 
-    // Bind socket to IP and Port
+    // Socket with IP and Port
     memset(&addr, 0, sizeof(addr));
     addr.sin_family = AF_INET;
     addr.sin_addr.s_addr = inet_addr(server_ip);
@@ -242,20 +242,20 @@ void run_server() {
         exit(EXIT_FAILURE);
     }
 
-    // Start listening for connections
+    // Listen for connections
     if (listen(listen_sock, 10) == -1) {
         perror("listen");
         exit(EXIT_FAILURE);
     }
 
-    // Create epoll instance
+    // Epoll instance
     epoll_fd = epoll_create1(0);
     if (epoll_fd == -1) {
         perror("epoll_create1");
         exit(EXIT_FAILURE);
     }
 
-    // Add listening socket to epoll monitoring
+    // Listening socket with epoll
     ev.events = EPOLLIN;
     ev.data.fd = listen_sock;
     if (epoll_ctl(epoll_fd, EPOLL_CTL_ADD, listen_sock, &ev) == -1) {
@@ -265,31 +265,31 @@ void run_server() {
 
     printf("Server listening on %s:%d\n", server_ip, server_port);
 
-    /* Server's run-to-completion event loop */
+    /* Server's loop */
     while (1) {
         /* TODO:
          * Server uses epoll to handle connection establishment with clients
          * or receive the message from clients and echo the message back
          */
-        // Wait for events
+        // Wait
         nfds = epoll_wait(epoll_fd, events, MAX_EVENTS, -1);
         if (nfds == -1) {
             perror("epoll_wait");
             exit(EXIT_FAILURE);
         }
 
-        // Process all returned events
+        // Check events
         for (int n = 0; n < nfds; ++n) {
             if (events[n].data.fd == listen_sock) {
-                /* Server uses epoll to handle connection establishment with clients */
-                // Accept new connection
+                // Server uses epoll with client connections
+                // Accept new connection from client
                 conn_sock = accept(listen_sock, (struct sockaddr *)&client_addr, &addrlen);
                 if (conn_sock == -1) {
                     perror("accept");
                     continue;
                 }
                 
-                // Add new client socket to epoll
+                // Add client socket to epoll
                 ev.events = EPOLLIN;
                 ev.data.fd = conn_sock;
                 if (epoll_ctl(epoll_fd, EPOLL_CTL_ADD, conn_sock, &ev) == -1) {
@@ -297,7 +297,7 @@ void run_server() {
                     close(conn_sock);
                 }
             } else {
-                /* receive the message from clients and echo the message back */
+                // Receive the message from clients and echo back
                 int fd = events[n].data.fd;
                 // Receive message
                 ssize_t count = recv(fd, buf, MESSAGE_SIZE, 0);
